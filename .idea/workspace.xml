@@ -4,13 +4,398 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b640919-c3a9-4314-8850-eaa12e87c110" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9b640919-c3a9-4314-8850-eaa12e87c110" name="Changes" comment="seminar6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/0024eeda8f2ad2f30cdc3ba3b087c31752ead6c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/01ac14a87896b4d18ba3c9a04cd925de2fe6e831.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/02546cd9b3ddb55636f960b1421671ddb89d07c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/0382dbb25ab2e0957a66a7414c184f4eb21d41a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/03f35224c1ba9fa8d9d7d27b01f132237db4ade4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/05535fe9bb12e2bbef0441ab96161857fc050994.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/06316c7e55b7e9234e1f05abb5c7df990bfe542e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/084ff6f3bf6d7e5e486c8503ed27b6a58fed4bd3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/09edca37d410a01799602405134791258c67f0ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/0b482ddf6cf0f3b9e1a09130443dc195ae7e4af3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/0b566ea1cd497a28f45134e1ef93cc74c15bec24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/0ba5506ea989bfd2f9eccf5f9e7d4fffe3eb848c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/0c6d1bbf8ad277a4ae545a7192af35c236f8e74c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1178e33c3ad0d8f4d791af5b6c73579e018aaa8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/11b3fb502a61e75a5a69db5f2b8a499206ee9cb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/135932781387956f0b7c5c61eaf21dcb7e86f0b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/13d0884f6712b63fccb6fc191009868b67f2cd67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/13f32abf523947bdf2783eac63096b174040b82b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/153d5d1bde37b9f65b21beb1164e54a62149ba98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/155e080c28044822fb2ead3e65b5cddbdf6d3859.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1818030a7d3f08f507247d7d10fd3cfdea3aafff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/186a780a791063f3c5c8930552e99c7b625b3708.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/18a074f44bb469c0e7059a9b2429cb128d9f4f25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/196552d5071a97366e0793d59e5303f4b9e9ee16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1adabe4c247fd7f0eb4681094b09b51cb1f04058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1b4a80657887e3fe35e466a19164f8dc1fef58e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1d3ad0d0d69e1dc80bb37335eeab697d4d5b334f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1d6bdfc4a25c217150f69c4efd56c033fb08048a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1dcf8ae4e48450e940f9d391b2d07d919bd518fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1f5938a2f3ffb4500343218591a913a8bc627088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/1fc474d831d96a90f25c89b61ca30903e2103d21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2020d1cedebecbcea410418d9b5086dab8593d3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/22bcd3f6ee0f18a33a014349eda12c577a31531d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/234fd6c650c3d307f647c7233ced806bcdd0d2d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/235c73c3c8aa3fcfeb8a8c54ae4ce6c06333e2a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/25bf8e6fb759c6ab954a0127bd3c13f7048ddbf9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2630fb3f901aef0f3000ac901f3dbd4551b021fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/26e9e7226ca423d2bf821c385a8e44079f1c9b47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/26f5678bad520d587fb48a67205e28908c78a97b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2739c1bf8840d8452fc252c7f28b91029d78ff2d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/27c3e7b83c04a56027fe7eabed1d3c8528291ad1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/28525cd65628a0da75462919f3202c3d463dfdad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/287f3163008fa9bf13cc5152396a3aea1aaf02f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/28bf0007ea3e6712df3755dcd955476ae50e6265.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/295cfcce47a39f72ca08814635dfff7e685a4113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/29ce6a7b5376c30e04b0a58b8186f4956b3e77f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/29f3f0bcf2cf6852091c7a4e1a89eed7199b1d4a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2b942da4292f603571677f5dd58a664545975b86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2bc5849a8bdcd4845b893aee1152b32f55d8d126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2c02364a8f0dc76cf9fa7b1783e607e8e0b207ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2c7a0526762bd32cf64c110e68589aa5b91c3338.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2d626fa46bdea538219dd38de79fc2cd5287e306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2d70776f6a9e79dd67b8cb0c2fb59ecb4c414aa0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2ddf442f26b262e844bcf7cd03ba7ba8276ee388.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2e251ba3e4c4d817cf75d29afd4b0379f801ddcd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2f3e6e66028107ff1baa480f7f1f00194ad292d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2f491d033223a08c539f689d554cb9e060d41d31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2f50aba7b9ebd40ef35317bc3f9ed56fddbc7f0e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/2fd5eab7df741be1f3be3aaca102c04ae035ecc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3155a8210494fc01e70d3f7afced9b98545f01e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3199b02490c71702127d5c8d86eaaf140178fb0c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/31c2f9006f3b4ae98a5d7232c670789226fcbf2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/31fd938f4dda92d06eefd1f497b6a005585b62ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/320be11f60198536e50595ed07267008fa737af2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/324bac557a3dab725a2fa6ab55e627223b20c9da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/32d4a18c0d0527f8fceb0c1f8bbbda5e246ea92d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/32f493dd169e34ff018571444710f747e8da819f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/337957c5e0cd7f33c40603175810c3389dc9004c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/337e1797bf80af7eadd84d47c3e72f09c158c647.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/33a1cf2c55534cf9ba04ddeb6634619b41933a0b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/33b0ad31e7de36f25ed41bb2eb2c06a5bce59cb8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/34383e5388a69c5fcf2e771e35d31eb89eec04ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/344fe83f0deee92549aa6febeba02c122dcba43e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/345915e28611a89999bda1398b40ad3d02d43293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/34dabca3acb0fe446e974349fb9f725dd682edf2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3506f6d155bcbac421befa0f5eca9768f3f38b69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/35b4de14e343d39b0df17e57877d0a8589e217bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/35b9f4b09429a529003834269d7578179023dba4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3654fa860304963685b227e289c8ba130fbfc4b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/374310329a0c61f8f6a3f732b6fb64817f525cac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/37620700102e72d1ec859377bbbb4fb1ebd35d05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/398ce8961775edce370936448cd5912b2ef46148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3a591eaf14ff4d2fde8c2845b69fde9f202452fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3b3c11577657f4b3d6dccdd0b427941d8b611dec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3bcce100c9457861e1eed4f83ee0c8687108a537.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3cd135282c6b05c9004e58c31e842b10cf39f89f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3d5ae2456374e9a7c381de878d988695283e512c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3d8320861854a7a7a466c8641b74faedf31ce1cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3d89e860e93df4be40d46a61ea6eae294ce329fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/3f203095705593c8c737109abc80cb4d0fcee070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/40c15442c2c0c4d7c54a2b4b1d119bc60d709416.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/412b53039967742d80b1642156e952ed3cee9bbc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/416483c3ed3994d1044dd1c3e313baf98f608041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4169cf251d52001871a246826696cfd1ec22e842.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/41b2a6152075d5bab59d910dcd6088c6aea2f4b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4240562b4a74bee35c60e6ee21c81916919401f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4420daf50d17d1c160eeffbc02a2dc2fc618204c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/445054927152c91bc5d459c70e72033432f06f75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/44e508aabdfe0602956c37495af70b342c0b2089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/45a33331c99fe4a060b17ba2df0ae48874b5da27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/468c10c908fa4c2886b17c2235cc04058d00c4c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/47eb744a096d77aa22ed291317726dd209ca7ba9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4800cf2c82eadae93d3304562c0ca8f87451dade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/48cb5bf83a3c756d4a682435c65d95e8774d28ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4920fd6298fd0e74f5343fdd722037aecac923d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/49c288f8eb442696472271ee1bafe88d1b61dcc9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4ac7e079ec6ece4366da7793acfb9a215b87150b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4b071de438fc4f98bddea166ecef97e24de610f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4b1a934808496f0d5092f7fe3ce5dc24519558e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4c3fc57cb8328f45d333f40b35486b43d8bb48ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4c8fcb3beab7a43663a7abcd9fc8e898d7e4b383.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4cff932fe78c70f1156df846fcdd4727044ba0a0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4d2371be7d212f567b7077d947364f2a3f338f3d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4d5d09b227c569301442886016fdf0f5c4db83bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4df85ae0da6d08961d8a8331085acc0eb004bed8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4e598abd64e629b0e6490826012571ea6162f4d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4eae427deaed0613daa453c0a903cda28e7047ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/4fd63bb7187123f55311a1a5c58d8ed5628547c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/504b2bf85b1c22586b565c9096aefbb463d7a63b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/51aa8a75524070a78dbc31d65c04e183e930c579.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/528b9dd2df3e33bd6d2966c55d916060bd74d1b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/5363b38f48f95a9204f89f5bacdeb498c51ab923.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/53d01bb8eb7192d2db2ed67485242bba986e062d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/53fa7c88db3a2c8ed1c7eb0e7ebadefe306c9477.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/541eea2d1966f0d27a689cd5d7d2ab537eaa30ba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/544f240497b081230dc461ef91e7f2807db842af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/55124dec9cb9ff4ac88e20445e2e52150708d3b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/55d3ce569b0e1c34a559c2c0dc1ca098fd3f2621.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/56e1ebe8cf6bbae6e095a21a0adb75474d82a500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/580e7310309d8772c3ec1e0368d46ee680d41849.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/598ab30ba090515fbbdce21b44d00aa0e165281f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/5a1fa19a561c1d069e8260e9979c092fce3dde64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/5a6aa073c7f37834093f5cd11b994ffb24ff2e8e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/5ade5c04f6de7773ddd0fa3f7dc8a19447eb6cb0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/5be66cf612a4aac5f0306358c46409cc7b04cf34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/5c7e978d334d672fb4cfd68a5833d38763d5e9f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/5edb66b599fa8f60b9ac3fd0148a57a1c9634649.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/603eb2766ce67bd7b6e724823bc5a80c4a0d60e9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/612b6b911b8c75dcbe6414ecf7a4ff1a7e3f373e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/61c0a4610a220a9ef2678660ea738cd167a9f1d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/629885516c7f67f3668dde1146886fd9278d7d79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/62b2575557644cb6a130e4ccdaa326759a03529f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/62fdea7719ae3ae84cfdd0e29f67a93911cb94c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/632cf774f06ddf3968e17b4099aa8cce8dcfd861.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/634edcc9e3a0e51f9fc093c9e38d7ce83fb0540b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/639dd1a662f580ccca4397fe1f4e7a6a85b5c1f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/63b7d17e76ee393e7f170cdf0b011f4eb3945d4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/63ea3963db5495121e0ff24e2989fdd79ee97dc8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/64aad6000a00339d9038cdd529eee86dd6d0b519.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/65398711885f3e83be945ff464fcd8d519928987.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/656367b042c91e108b7753bd8ba18890266dd27f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/65ca8ee1d8725674c059a8735ebec01ff07c2f55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/68dec80c1e9b4e174e98314f1a248130634757fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/68e27e630ca015915f0b142940c702e284766391.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/68ff31e5094a74ad6ae23c19d16f5c3b3db0e21f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/697b26d40eebbbd1a4f00b7f2a3439bd2550deec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/69bea8fd5fd6a658540c2567f94f08941a5b77dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/6a04cb0be3346f47fc3df21552029be00572bf3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/6bbdec0882c6dcc27f0922c770a410637e973c00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/6cb2019d98e873b36694facd27e68dfb68f96e53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/6cf25652104ef3eafa2cda03258c0dd389efcfc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/6d31911d9e005748dea1a9b09d2c5dcf37088f3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/6e5f79d1b119d5d7efeea0c32fa9c04175e77ff4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/6f3ed9ce5b0c39671fc250af3f772a97b3237ce4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/6f8852b953da63461c54a36f2373c86ac45d90d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/70a355b2c7d4e05d308582d8c8f2c66338c39f2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/718d4c99a96538c41ba988e1774715506c0319aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/71fef7bccd6e9a003609aba46495664e5c8ec177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7467aa7794d4c311a1a27dad8c6950db389c9586.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/758b050c0b34b3aa7263913b9a70252498cf013e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/758c36542945ce43bebc5351d742d0b916b70f77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/765c7ce0de6dd9616363d787c2248d100a7b370f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/76d0cb6977a0aec821d9394d7bd66ae8781eedd1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/772ac6e564821e4e437117dbd72c63533fdf9814.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7764d72c4b6e2f8f80748bbff13eca19e26ca8ef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/77c0da82390ab1c4300071a1d6d909070bcb88ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7849015feda41ef577f66a2d78f721521fc8dc3e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/79fc10b2432ba6e968c7f4b957ccb538292dc952.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7a6040e0035c1d36fcc1d311d5178d61e17042ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7a75f62e63e4c7b603e4ced8811bb0a5ca357bbc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7a8b400ea43a122cf01705901fb98a98904f61ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7b0fd1bc8029577328ce018698e02700696acabd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7ca07fc811da7ffc1625453237a1a51b2e35092e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7cac6a55ffb9273577260ebea2a27fc892b730e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7e8daf97c35399896b5176cb71225a32a9ab9545.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7eba8e2b1f2a77a69945587ca12b42861d2ad92f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/7ed860cd16ff063c6a30021a2eb0f2017be26e49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/807fbbb7078cd10713c744ee9bb94646430096fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/81af195d458fa1a9e96eb5079b150199421d3ad0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/820930355ef6d6d182acb5c29c3f48946d3419c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/829fca018bd63c0214b82eb1087b54b1e228d653.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/83f3615cce0fd69c25deac3867dcf8964345d0c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/84712bf6f678cdd04b5f3ab6be36bc73cc08fcaf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8504a56e01ce62f0e6bf2f6c011f23422eab8d83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/857c5fbfabcc0cf41b455e9e7031bb2d8471f7aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/86d487ed78f49dadecdf159352645aa6da2f5932.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8721efe63bc72ca77ed783465d026f3348ad377b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/88a64bd185620e8bddb051b38bb29dd9de167ca6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8968cf812e56f21567d15ce807446a665e3e0303.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/89a5017543616ee8d95797b665e19abce034c9bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/89fa54347ce8430f158cc7182d859b1985a7a757.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8a87dfdedcd2e5c188047d77346c09acb8db6c30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8bd3347aaf751a4bb62700463d829245cf76ac6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8c5982ed2168b23705c1db457a34c66c27218ebb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8cb056f5e1f2e0020941cd57dd458e6b93478393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8f65197793c78d6ac774e4c624dcd73b4a69b283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8f658737ca449e93824bcf66ba2cd3d075595dba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8f8c8087f57c6632ebc746a09dfc64361792129d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/8fdabb7a2ad3472fe99f80f7d72ca4e6dca17bc5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9024552b4b7d51b5c7055894068c4f73ae7d179e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/906326755c8687ed7a5a67af51ba8165b0a42adf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9145a9ec0c119bd3a69c3600dd87d260ade1eb02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/916d4b0669f7f033377d300f12719ee095f5fb27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/92229db3a9ac606f0b737d637dc0a69156b1efcf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/933cd59bf46d917c929f4868d8adb9468b1027b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/935d5444ba51c89dfd532455500cad402cd608de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/939c66a6b537bdf838a2c0e225debca77d29cacc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/946a7e7077ee0c24e17774ddc25798107043b789.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/968a820db6921359c3f94e687f398647599a89b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/96e749b48a9654ac531e0b4a92215817f1250d4b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9827130db1783f5fd60d3ebb3ffc99c764cdd0bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/986bb95003556372d15ae10df2a946b31c918d12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9878ac2b7d5d94ca535a7ac69fa6c03a795e3431.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/997ffd03e70cf8f27398671cfefb32d7a118408f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/99e6bba0da73a988b321aaadcaa3f4953f8da557.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9a3f3e1c9c95d2e4663a5f064f8809bea75160e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9adc1abccc37dbedc3d04d43f0e19c6cbf55c64e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9b39af8240280c6aaa9cf0c739f5f895af9bfd99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9b86341079977775aa7a589cc523491e4471c05b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9be1613ff1a27e71693bd2b7d76b2b85d1c6c1dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9ccc74a565907e6ba3a2fcf2b390e7b5ff06161c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9e705002fb077043b1de900976c8ca375f3e5a8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9e810af87f11bca0152647a052603b47f709d4ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9e9e7a8ec1072cb3fa525d74f62da585aa3f7353.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9ed3af3fcdf198ecc04e52d1f1c7240856810213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9f108280c410a338614badc8cc0f48bf9264c3ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/9fadf91ae9bfeb03b9dadce4392ac50436c0500b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a01ec54038b436cf9afd4f72fabc284f63c2d74f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a05c1808ee3780821b55659c2481991efcb3318d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a19f0ccf95a3ef30bd453531e718f717fae2c080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a271a9414c447ac760f8e2d8f491caf6db44ad33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a2f65a5c6d29b7e07b2808d751c3d9bdea88da36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a3682ab87f81ee8c0f5d12ac0b65556f5494bab4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a5238d2de88cf16817b634d4528778f90ee513e5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a5e9a0e0bf0af948ef8cd4810fef92fd562783f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a5efb0aac72e74f9ffa9c91c3c360b0bf101a117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a601e858cc222f603fa55570f3dd981dfcdd2cbd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a78f7f04cba5553695a44cb37fee07185cef6498.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a80d39aa0ed9a727578035d0f3696289e98e1a3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a817dc9dc59657ac845f3cdb2b9c1d582dad8092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a8270330b666c017eb66da735bc494a6455c12d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a92d0bf37e070fef3974b5b1d91b80c55578d7a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/a96fa4ebaab7ab350dd034a33863eb73d0dca4e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/aafcf77fdf20a9b0201e612954fbd7461236696b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ac24f28660fa7508000185145f93329ba199e39f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/acb1c4a8618dbd20a3a652e41ed4038b61ef6258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/acba957fd21e131c9dbe7c9666bed8578aa0ca58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ad622129938862783370f818bc2b8f13830a3bc0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/adffc9fc3dc61b2b27ce8da3ff4b5e123182e97e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ae12aa8159b09c76d2223d2367187e9ef29dc34e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ae8a1547def364deff3450c2150efd2ec17e643e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/aefb2ba5c6174439abf9ad7517bfc5fd927ed8c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b00b8c488227518054f37aeb498b1f1246446b95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b0b0b0204bad3a75c70e9cf33559076f05b6e00c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b272e988d4e89892fbd2d0a9754650837e762cff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b2f88de3f1582fa8fff740176c644280b52ce366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b3cb5ffe681e144b15fff8855b679639eb127125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b486e33fe5e907ae28d59cc37c58309c26f1e517.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b7187d5848ed0ef3c82c2aef390f60952eff6d8a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b7c1eb47a25d620d88f149d71d95ce52edc506db.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b7c8abe4851ce857ca56d4c93d677230a4f228f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b822814de63fde7f40d0804cb3e3f7b4e17f9c95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b8b0046f8d6f80ddb37e140ce1d9b563670ef3aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b8ceb792f5feef6200f7f56d7cee18351cc56b4d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b94b44b98e1ab704559712e61d6abdbfae512d03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/b9ea47446d0981e3228f132e3d26d5ea35a5b9b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ba800712670e2fc9d74c95a300e2c200062dde3a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/baa30b08be652cfbab8973ea4f3fc5bb99332c36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/bbec69d914b4080d99e44fe494f693f8f18fbc6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/bc718993dbaa8602a039757642bd9f979a64f1cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/bc836ed68a292409fa29a56000761d63dec6d223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/bcaf905e636e44369e6ebece837d94bfc0ef7b65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/bcfe5df72918f0603af4c59c06cbe2e756ce625e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/bfa523ce0d466bb33eaf13b22fd2f5ce05ba5033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c04630f966768c2e57652fb4d2973fb1bf05a3be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c270030831554c5ae6f55b81fd97cc0335595221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c2bddbce47f436ef39e9c5a387dd47e38cbc9d3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c64970ce88a7dedd545cd484e4b1078c8c5be181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c66368d1943700e16ad389726e5a88fd57ee8c20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c76e5ae8a87e2561c945b14a6a0c7509ae9f964c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c78e51b4f880c0d618b1ed84e9591b11eccf7e6b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c7cca897a4a5670283868df72d26af18f67d61bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c7f1d86db88df809180cbf3d400150d3573f2d2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c808be090c0e4f05e08738f51bfd172105533c66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c91eef73e14563a527e107aebdb674032cb39910.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/c979fb418bf973a11a500f28679a4ab0bfa90e70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ca67aa1cda74a4c871c12c0aa14c1442752fc051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ca6c2a68720153372bee90be392998fdbe24f9f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/caff278ef0d97d09d9852afe01c6ec6a51ba368b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/cb0a118616554c87ce3db44b859b090927d733d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/cb103a6204d67b18ea14e3520a5eb77012d290a9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/cb1bdf9bff57879d871cebe90b4eec4fd96fa479.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/cb65056f02c95e85515d2ecbfa7ca049f32d97ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/cbd3573c55481ad30438318465f7079d6f320624.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/cdf10cbd39d7b184206bfa493d355eb9eb50625a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ce452e540bd500ec6936fadab2db6945d7144d0e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ceca382e3c7de03745d9cf7b1eefbe31ab10819f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/cff32fa89d151bb167f9bc6b986ef33a963178b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d2b05c8c69bf704da1dd5f5a55dc978b5f0e11f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d3330648200dc85b9056997e77d7dbddbb31924b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d3dfccd18b6897dbcf115c126a1ffb4ef62d645a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d4b1aa2da2a9c1356ed5669c2331187a5b817fd7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d562c96cb9bf4298e9f3d273a399a2701c1e9630.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d5b516b8082a903f7f6bbff3ad6a2ab936b58d5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d5e858e5e4f19bfb515f0b80e7d96188435a8e96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d5f94460b020d1b59ab59a22f02d4f03662afbf8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d604e393dd79a594e332d475972f1473810a842f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d6498aabbe5bf3ee736755ca47181330191a8041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d6640dc23116a8376b6bf8fbbc2ec381a040be1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d72482fe9c260fe0db5ace0463d3e7486ec4eb5b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d73a7c7208f23d51addd9b8c17fbab50dc4b8afd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d795e4bd53fe003e656df2cf2e6ab5864095a56c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d81ea44e537cca918825576d3e23afcdaa289fd9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d962cdc6269cf35ae4ef24ba63dcdfbff2ad118a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d991fc53290fad96fea52cb9e8ab3c9ab837cf9d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/d9c0f5a9d4313205c1b200199574ce1e687dae8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/db928592d2ba8aa909b849f3619c07a5c7a80ad2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/dc744b7949a8c8bff73100e93e4a856688c6922b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/dcb435ad231f7dda0e653ea29c2ed4c6558a64d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/dce08374ebffda700ff6eb7657fd5e6e0530d8b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/deb6a6bfb45845d76d6cf95d9b4193f501604cc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/debd89dbcd1f9224e72676fe655dcee96bff0f89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/df22af02f6a01217aefd301348ad0938115baca8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/df3ff588d39a08f6eaefc48bb81bc52a5e52ac52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e00f900b2c21c085a617e00747651d1bf1a3ee51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e0549267039e475c13eff9f56b219a5caa24b8b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e0787323f4248558bd3d8c2d4f57b6682af3e459.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e0b25aa60b3aed4702b9ac70bc5771f4e370e7ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e17e42372509ea596ebc904a898fcca41df68e12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e2ce700ee04fa0d4118c484de1cb9f3d8e44a832.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e3031203eefa2b320f80eea25f27350d0fa076c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e421b33d495c0678de119ee496e4d516d2c94bb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e500cba77645710569e5c0d5c91298fb73454804.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e5347b1ae389361c8584d0092dbde35c93dd3968.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e55e6566a27a238540ba46e97b5238476f9070fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e5637d5169d5d251ea53ebec6e734655ae9a376b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e59929884ede00709379ae27a4578b6803da4037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e5d6417bdd286c6d15bcf683e66dfed8500b32e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e71a284299d67b416b1f4a23d84a40be046e46bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e7d844a3b605ad70a4ae4f5107d66cbe6a1df424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e86ccb0a968f7f524aa7e8fc43f89d981988c413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e8afe1bb036104cb62b072b2a2d32343980ffdca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e9501f1dfd59897961589058e5146042ecd6e127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/e96d539bb54066dcf6b9d0a16e2fb9ce20723646.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ea6a11c1df5d38e207838b12701c1d8c69ad22c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ea9df6ea2af72acad423e0f3e0519d10eda9b792.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/eafe4b71b2555217292d6458c958cfbe3ac2650c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/eb0a891beb3cd79469fd2da0b1656b3afb239922.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/eb2ee1ca874acf05ae960b12119e6b076528c87f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ec23110fc1cb50e9cc2bc4f89445cf894d5568f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ec39c8f1e4b238477ef818113ec9c53c9f821391.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ede5da8e2975b5e4943dbe6c80af3a8d6965e09e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ee40b497aa0915fc91adde6b8b7ba2795b0925b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/eec71629adeeca1a60ad3170f1fd8c97b53d083d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ef1c4d985c0b9873b8bf61b0df9a298626ed4392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/efac543e8daf4b4219beb512a8237b3bf0bba0d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f094b517667aaf1bee89074524e605476d72fb75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f194d6c5b0457868220a60aa5526bc999a782e87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f2789720bbaed3c67f28d8fff9f91b07d5d2b502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f2f577ff59757e4c0b6973a5a7140c95658f371e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f3c71c0b05b848bb5a1fe1cb4bc78ce40187b843.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f3fe82f318bf8f46bec34a76a3b580c1c6471b23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f4f14ba52b6b38cf6322482a8ac81e71b81696de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f4fe0d7435e666789209ee635d9cd3c084a9f8c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f5355c2507be36ef4558927878b33bf14bec6da4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f5e5fa9b8044ed931e0c52ada8c703f23ba5fe6e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f7a6d6c094474da7b12b290ed03978ab36d0d7d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f86252a057c7f86a929a892490bfc419d0ae8b1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f8ab7acb36ba0ab975f73c5fe5cfdcbcfe47274d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f8c967a82efaff6b7cedf72e5892481efccfb841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f9308e4689aff5ce4c26975ebcfc6a2ca9cadf55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/f94cf565361d290e60119893994c34e97983208d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/fa90561840e4731c4169776ed0e8cdeefe026593.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/fb093bf5875c1effaf05a42d006bef1d83261a11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/fce92467cd809b09e96e027146a3e1322e2b7ba1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/fd80362bd5a64dcecabdeeb0b699e1ca7793282a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/fdec2749e023aac25899293de96a5e01735d6d24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/full/ffdfba9df557bd01875c15d6598c7251c70e75cd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesparser/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/imagesparser/pipelines.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +403,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ksvtlktlm"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ksvtlktlm/unsplash_parser.git",
+    "accountId": "5dadfd58-21d0-443c-8398-e5ef58fb52a5"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -32,7 +434,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "seminar6"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -51,6 +453,28 @@
       <option name="presentableId" value="Default" />
       <updated>1732545195803</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <option name="closed" value="true" />
+      <created>1732546566554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732546566554</updated>
+    </task>
+    <task id="LOCAL-00002" summary="seminar6">
+      <option name="closed" value="true" />
+      <created>1732546684610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732546684610</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <MESSAGE value="seminar6" />
+    <option name="LAST_COMMIT_MESSAGE" value="seminar6" />
   </component>
 </project>
